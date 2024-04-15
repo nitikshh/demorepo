@@ -1,0 +1,1 @@
+Artificial intelligence (AI) generally refers to processes and algorithms that are able to simulate human intelligence, including mimicking cognitive functions such as perception, learning and problem solving. Machine learning and deep learning (DL) are subsets of AI.
